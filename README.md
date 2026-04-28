@@ -26,3 +26,8 @@ python process_video.py
 ```
 
 Outputs: `features_detected.jpg`, `tracked_output.mp4`, `motion_plot.png`
+
+## Attribution
+
+Drone footage courtesy of **Emmanuel Seyoum**  
+Instagram: [@manny_parquesnacionales](https://www.instagram.com/manny_parquesnacionales)
